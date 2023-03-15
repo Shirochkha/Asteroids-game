@@ -1,0 +1,328 @@
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\App.baml
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\fragmentShader.glsl
+C:\Users\Shcoder\Downloads\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\vertexShader.glsl
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\fragmentShader.glsl
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\vertexShader.glsl
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Downloads\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\fragmentShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\vertexShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3__kopia\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\fragmentShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\vertexShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\ChooseShip.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\obj\Debug\ChooseShip.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\Ateroids\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\fragmentShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\vertexShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\ChooseShip.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\ChooseShip.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\fragmentShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\Engine\vertexShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe.config
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\ChooseShip.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\App.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids_MarkupCompile.lref
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\ChooseShip.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\MainWindow.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\WindowRules.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.g.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.Properties.Resources.resources
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.exe
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\obj\Debug\Ateroids.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\Ateroids.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\Ateroids\bin\Debug\GameComponents.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\Engine\fragmentShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\Engine\vertexShader.glsl
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\Ateroids.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\bin\Debug\GameComponents.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\ChooseShip.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\GameOver.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\WindowRules.g.cs
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\App.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\ChooseShip.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\GameOver.baml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\Ateroids\obj\Debug\WindowRules.baml

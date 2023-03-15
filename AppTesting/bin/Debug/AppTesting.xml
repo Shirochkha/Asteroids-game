@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppTesting</name>
+    </assembly>
+    <members>
+        <member name="T:AppTesting.FactoryBonus_Tests">
+            <summary>
+            Тестирование классов фабричного метода с бонусами.
+            </summary>
+        </member>
+        <member name="M:AppTesting.FactoryBonus_Tests.ArmorBonus_Test">
+            <summary>
+            Создание бонуса брони.
+            </summary>
+        </member>
+        <member name="M:AppTesting.FactoryBonus_Tests.SpeedBonus_Test">
+            <summary>
+            Создание бонуса скорости.
+            </summary>
+        </member>
+        <member name="T:AppTesting.Decorator_Tests">
+            <summary>
+            Тестирование классов декоратора.
+            </summary>
+        </member>
+        <member name="M:AppTesting.Decorator_Tests.AdditionalArmor_Test">
+            <summary>
+            Тестирование класса декоратора с изменением брони корабля.
+            </summary>
+        </member>
+        <member name="M:AppTesting.Decorator_Tests.AdditionalSpeed_Test">
+            <summary>
+            Тестирование класса декоратора с изменением скорости корабля.
+            </summary>
+        </member>
+        <member name="T:AppTesting.FactoryEnemy_Tests">
+            <summary>
+            Тестирование классов фабричного метода с врагами.
+            </summary>
+        </member>
+        <member name="M:AppTesting.FactoryEnemy_Tests.Asteroid_Test">
+            <summary>
+            Создание астероида.
+            </summary>
+        </member>
+        <member name="M:AppTesting.FactoryEnemy_Tests.EnemyShip_Test">
+            <summary>
+            Создание вражеского корабля.
+            </summary>
+        </member>
+        <member name="T:AppTesting.FactoryPlayerShip_Tests">
+            <summary>
+            Тестирование классов фабричного метода с игровыми кораблями.
+            </summary>
+        </member>
+        <member name="M:AppTesting.FactoryPlayerShip_Tests.SpeedShip_Test">
+            <summary>
+            Создание скоростного корабля.
+            </summary>
+        </member>
+        <member name="M:AppTesting.FactoryPlayerShip_Tests.ArmorShip_Test">
+            <summary>
+            Создание защитного корабля.
+            </summary>
+        </member>
+        <member name="M:AppTesting.FactoryPlayerShip_Tests.BasicShip_Test">
+            <summary>
+            Создание базового корабля.
+            </summary>
+        </member>
+        <member name="T:AppTesting.Objects_Tests">
+            <summary>
+            Тестирование классов объектов.
+            </summary>
+        </member>
+        <member name="M:AppTesting.Objects_Tests.BonusGeneratorSpeed_Test">
+            <summary>
+            Генерация бонуса скорости.
+            </summary>
+        </member>
+        <member name="M:AppTesting.Objects_Tests.BackgroundVertices_Test">
+            <summary>
+            Вершины коллайдера фона.
+            </summary>
+        </member>
+        <member name="M:AppTesting.Objects_Tests.BackgroundCoords_Test">
+            <summary>
+            Текстурные координаты фона.
+            </summary>
+        </member>
+        <member name="M:AppTesting.Objects_Tests.LazerCoords_Test">
+            <summary>
+            Текстурные координаты лазера.
+            </summary>
+        </member>
+        <member name="M:AppTesting.Objects_Tests.LazersTexCoords_Test">
+            <summary>
+            Текстурные координаты лазеров.
+            </summary>
+        </member>
+    </members>
+</doc>

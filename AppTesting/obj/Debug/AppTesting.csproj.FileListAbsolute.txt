@@ -1,0 +1,54 @@
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\AppTesting.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\AppTesting.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\GameComponents.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\obj\Debug\AppTesting.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\obj\Debug\AppTesting.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\obj\Debug\AppTesting.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\obj\Debug\AppTesting.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\AppTesting\obj\Debug\AppTesting.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\AppTesting.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\AppTesting.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\AppTesting.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\GameComponents.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\obj\Debug\AppTesting.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\obj\Debug\AppTesting.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\obj\Debug\AppTesting.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\obj\Debug\AppTesting.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\AppTesting\obj\Debug\AppTesting.pdb

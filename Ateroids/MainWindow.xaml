@@ -1,0 +1,22 @@
+﻿<Window x:Class="Ateroids.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameComponents"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        WindowStyle="None"
+        KeyDown = "MainWindow_KeyDown"
+        WindowStartupLocation = "CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="Textures/Stars.jpg" />
+    </Window.Background>
+    <Grid>
+        <Button x:Name="Game" Content="Выбрать корабль" HorizontalAlignment="Center" Margin="0,169,0,0" VerticalAlignment="Top" Height="56" Width="240" Click="Button_Click" Background="#FFDDD98C"/>
+        <Button x:Name="Rules" Content="Правила игры" HorizontalAlignment="Center" Margin="0,263,0,0" VerticalAlignment="Top" Height="56" Width="240" Background="#FFDDD98C" Click="Rules_Click"/>
+        <TextBox HorizontalAlignment="Center" Height="89" Margin="0,22,0,0" TextWrapping="Wrap" Text="Asteroids" VerticalAlignment="Top" Width="384" FontSize="72" FontFamily="Algerian" Visibility="Visible" IsEnabled="False" Background="{x:Null}" Foreground="#FFFFF090" BorderBrush="{x:Null}"/>
+        <Button x:Name="Exit" Content="Выход" HorizontalAlignment="Center" Margin="0,356,0,0" VerticalAlignment="Top" Height="56" Width="240" Background="#FFDDD98C" Click="Exit_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,561 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GameComponents</name>
+    </assembly>
+    <members>
+        <member name="T:GameComponents.Decorator.AdditionalArmor">
+            <summary>
+            Увеличение брони корабля.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Decorator.AdditionalArmor.Armor">
+            <summary>
+            Добавление защиты корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Decorator.AdditionalArmor.#ctor(GameComponents.PlayerShip)">
+            <summary>
+            Инициализатор бонуса защиты корабля.
+            </summary>
+            <param name="player"> Декорируемый корабль. </param>
+        </member>
+        <member name="P:GameComponents.Decorator.AdditionalArmor.BoostArmor">
+            <summary>
+            Значение дополнительной брони, свойство необходимо для тестов.
+            </summary>
+        </member>
+        <member name="T:GameComponents.Decorator.AdditionalSpeed">
+            <summary>
+            Увеличение скорости корабля.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Decorator.AdditionalSpeed.SpeedMotion">
+            <summary>
+            Добавление скорости корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Decorator.AdditionalSpeed.#ctor(GameComponents.PlayerShip)">
+            <summary>
+            Инициализатор бонуса скорости корабля.
+            </summary>
+            <param name="player"> Декорируемый корабль. </param>
+        </member>
+        <member name="P:GameComponents.Decorator.AdditionalSpeed.BoostSpeed">
+            <summary>
+            Значение дополнительной скорости, свойство необходимо для тестов.
+            </summary>
+        </member>
+        <member name="T:GameComponents.Decorator.RemoveSpeed">
+            <summary>
+            Удаление бонуса скорости.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Decorator.RemoveSpeed.SpeedMotion">
+            <summary>
+            Снижение скорости корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Decorator.RemoveSpeed.#ctor(GameComponents.PlayerShip)">
+            <summary>
+            Инициализация удаления бонуса скорости.
+            </summary>
+            <param name="player"> Декорируемый корабль. </param>
+        </member>
+        <member name="T:GameComponents.PlayerDecorator">
+            <summary>
+            Декоратор корабля игрока.
+            </summary>
+        </member>
+        <member name="F:GameComponents.PlayerDecorator.player">
+            <summary>
+            Корабль игрока.
+            </summary>
+        </member>
+        <member name="P:GameComponents.PlayerDecorator.Player">
+            <summary>
+            Корабль игрока.
+            </summary>
+        </member>
+        <member name="P:GameComponents.PlayerDecorator.SpeedMotion">
+            <summary>
+            Скорость корабля.
+            </summary>
+        </member>
+        <member name="P:GameComponents.PlayerDecorator.Armor">
+            <summary>
+            Защита корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.PlayerDecorator.#ctor(GameComponents.PlayerShip)">
+            <summary>
+            Инициализатор.
+            </summary>
+            <param name="player"> Декорируемый корабль. </param>
+        </member>
+        <member name="M:GameComponents.PlayerDecorator.SetPlayerShip(GameComponents.PlayerShip)">
+            <summary>
+            Декорирование корабля.
+            </summary>
+            <param name="player"> Декорируемый корабль игрока. </param>
+        </member>
+        <member name="T:GameComponents.FactoryBonus.ArmorBonus">
+            <summary>
+            Бонус защиты.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryBonus.ArmorBonus.Activation(GameComponents.PlayerDecorator)">
+            <summary>
+            Активация бонуса защиты.
+            </summary>
+            <param name="ship"> Декоратор декорируемого корабля. </param>
+        </member>
+        <member name="T:GameComponents.FactoryBonus.BonusCreator">
+            <summary>
+            Создатель бонуса.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryBonus.BonusCreator.CreateBonus">
+            <summary>
+            Создание бонуса.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryBonus.CreatorArmor">
+            <summary>
+            Создатель бонуса защиты.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryBonus.CreatorArmor.CreateBonus">
+            <summary>
+            Создание бонуса защиты.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryBonus.CreatorSpeed">
+            <summary>
+            Создатель бонуса скорости.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryBonus.CreatorSpeed.CreateBonus">
+            <summary>
+            Создание бонуса скорости.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryBonus.RemoveBonus">
+            <summary>
+            Удалитель бонуса скорости.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryBonus.RemoveBonus.Activation(GameComponents.PlayerDecorator)">
+            <summary>
+            Активация удаления бонуса скорости.
+            </summary>
+            <param name="ship"> Декоратор декорируемого корабля. </param>
+        </member>
+        <member name="T:GameComponents.FactoryBonus.RemoverSpeed">
+            <summary>
+            Удаление бонуса скорости.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryBonus.RemoverSpeed.CreateBonus">
+            <summary>
+            Удаление бонуса скорости.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryBonus.SpeedBonus">
+            <summary>
+            Бонус скорости.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryBonus.SpeedBonus.Activation(GameComponents.PlayerDecorator)">
+            <summary>
+            Активация бонуса скорости.
+            </summary>
+            <param name="ship"> Декоратор декорируемого корабля. </param>
+        </member>
+        <member name="T:GameComponents.Bonus">
+            <summary>
+            Бонус.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Bonus.Activation(GameComponents.PlayerDecorator)">
+            <summary>
+            Активация бонуса.
+            </summary>
+            <param name="ship"> Декоратор декорируемого корабля. </param>
+        </member>
+        <member name="T:GameComponents.FactoryEnemy.CreatorAsteroid">
+            <summary>
+            Создатель астероида.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryEnemy.CreatorAsteroid.CreateEnemy">
+            <summary>
+            Создание астероида.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryEnemy.CreatorEnemyShip">
+            <summary>
+            Создатель вражеского корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryEnemy.CreatorEnemyShip.CreateEnemy">
+            <summary>
+            Создание вражеского корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryEnemy.EnemyCreator">
+            <summary>
+            Создатель врага.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryEnemy.EnemyCreator.CreateEnemy">
+            <summary>
+            Создание врага.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryPlayerShip.ArmorShip">
+            <summary>
+            Защитный корабль.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryPlayerShip.ArmorShip.#ctor">
+            <summary>
+            Инициализатор защитного корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryPlayerShip.BasicShip">
+            <summary>
+            Базовый корабль корабль.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryPlayerShip.BasicShip.#ctor">
+            <summary>
+            Инициализатор базового корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryPlayerShip.ChooseArmorShip">
+            <summary>
+            Выбор защитного корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryPlayerShip.ChooseArmorShip.CreateShip">
+            <summary>
+            Создание защитного корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryPlayerShip.ChooseBasicShip">
+            <summary>
+            Выбор базового корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryPlayerShip.ChooseBasicShip.CreateShip">
+            <summary>
+            Создание базового корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryPlayerShip.ShipChoose">
+            <summary>
+            Выбор корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryPlayerShip.ShipChoose.CreateShip">
+            <summary>
+            Создание корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryPlayerShip.ChooseSpeedShip">
+            <summary>
+            Выбор скоростного корабля.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryPlayerShip.ChooseSpeedShip.CreateShip">
+            <summary>
+            Создание скоростного корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.FactoryPlayerShip.SpeedShip">
+            <summary>
+            Скоростной корабль.
+            </summary>
+        </member>
+        <member name="M:GameComponents.FactoryPlayerShip.SpeedShip.#ctor">
+            <summary>
+            Инициализатор скоростного корабля.
+            </summary>
+        </member>
+        <member name="T:GameComponents.Asteroid">
+            <summary>
+            Астероид.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Asteroid.#ctor(System.Single,System.Single)">
+            <summary>
+            Инициализатор астероида.
+            </summary>
+            <param name="speedMotion"> Скорость астероида. </param>
+            <param name="k"> Переменная для рандомного размера астероида. </param>
+        </member>
+        <member name="M:GameComponents.Asteroid.GetTextures">
+            <summary>
+            Получение текстурных координат астероида.
+            </summary>
+            <returns> Двухэлементая структура текстурных координат астероида. </returns>
+        </member>
+        <member name="T:GameComponents.Objects.Background">
+            <summary>
+            Фон игры.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.Background.#ctor">
+            <summary>
+             Инициализация фона игры.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.Background.GetTextures">
+            <summary>
+            Получение текстурных координат фона.
+            </summary>
+            <returns> Двухэлементая структура текстурных координат фона. </returns>
+        </member>
+        <member name="T:GameComponents.Objects.BonusGenerator">
+            <summary>
+            Генератор бонусов.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Objects.BonusGenerator.SpeedMotion">
+            <summary>
+            Скорость падения бонуса.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.BonusGenerator.#ctor">
+            <summary>
+            Инициализатор бонуса.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Objects.BonusGenerator.RandomBonus">
+            <summary>
+            Номер бонуса.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.BonusGenerator.GenerateBonus">
+            <summary>
+            Генерация бонуса.
+            </summary>
+            <returns> Бонус. </returns>
+        </member>
+        <member name="M:GameComponents.Objects.BonusGenerator.Move">
+            <summary>
+            Перемещение бонуса вниз.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.BonusGenerator.GetTextures">
+            <summary>
+            Получение текстурных координат бонуса.
+            </summary>
+            <returns> Двухэлементая структура текстурных координат бонуса. </returns>
+        </member>
+        <member name="T:GameComponents.Objects.FirstLazer">
+            <summary>
+            Первый тип лазера.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.FirstLazer.#ctor(System.Single)">
+            <summary>
+            Инициализатор первого типа лазера.
+            </summary>
+            <param name="speedMotion"> Скорость перемещения первого типа лазера. </param>
+        </member>
+        <member name="T:GameComponents.Objects.Lazer">
+            <summary>
+            Лазер.
+            </summary>
+        </member>
+        <member name="F:GameComponents.Objects.Lazer.speedMotion">
+            <summary>
+            Скорость перемещения лазера.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Objects.Lazer.SpeedMotion">
+            <summary>
+            Скорость перемещения лазера.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.Lazer.#ctor(System.Single)">
+            <summary>
+            Инициализация лазера.
+            </summary>
+            <param name="speedMotion"> Скорость лазера. </param>
+        </member>
+        <member name="M:GameComponents.Objects.Lazer.MoveVertical(System.Boolean)">
+            <summary>
+            Перемещение лазера по вертикали.
+            </summary>
+            <param name="marker"> Флаг перемещения лазера вверх или вниз по вертикали. </param>
+        </member>
+        <member name="M:GameComponents.Objects.Lazer.GetTextures">
+            <summary>
+            Получение текстурных координат лазера.
+            </summary>
+            <returns> Двухэлементая структура текстурных координат лазера. </returns>
+        </member>
+        <member name="T:GameComponents.Objects.SecondLazer">
+            <summary>
+            Второй тип лазера.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.SecondLazer.#ctor(System.Single)">
+            <summary>
+            Инициализатор второго типа лазера.
+            </summary>
+            <param name="speedMotion"> Скорость перемещения второго типа лазера. </param>
+        </member>
+        <member name="T:GameComponents.Objects.ThirdLazer">
+            <summary>
+            Третий тип лазера.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Objects.ThirdLazer.#ctor(System.Single)">
+            <summary>
+            Инициализатор третьего типа лазера.
+            </summary>
+            <param name="speedMotion"> Скорость перемещения третьего типа лазера. </param>
+        </member>
+        <member name="T:GameComponents.Enemy">
+            <summary>
+            Враг.
+            </summary>
+        </member>
+        <member name="F:GameComponents.Enemy.speedMotion">
+            <summary>
+            Скорость врага.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Enemy.SpeedMotion">
+            <summary>
+            Скорость врага.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Enemy.#ctor(System.Single)">
+            <summary>
+            Инициализатор врага.
+            </summary>
+            <param name="speedMotion"> Скорость врага. </param>
+        </member>
+        <member name="M:GameComponents.Enemy.MoveVertical(System.Boolean)">
+            <summary>
+            Перемещение врага по вертикали.
+            </summary>
+            <param name="marker"> Флаг перемещения врага по вертикали. </param>
+        </member>
+        <member name="T:GameComponents.EnemyShip">
+            <summary>
+            Вражеский корабль.
+            </summary>
+        </member>
+        <member name="M:GameComponents.EnemyShip.#ctor(System.Single)">
+            <summary>
+            Инициализатор вражеского корабля.
+            </summary>
+            <param name="speedMotion"> Скорость вражеского корабля. </param>
+        </member>
+        <member name="M:GameComponents.EnemyShip.GetTextures">
+            <summary>
+            Получение текстурных координат вражеского корабля.
+            </summary>
+            <returns> Двухэлементая структура текстурных координат вражеского корабля. </returns>
+        </member>
+        <member name="T:GameComponents.GameObject">
+            <summary>
+            Игровой объект.
+            </summary>
+        </member>
+        <member name="P:GameComponents.GameObject.X">
+            <summary>
+            Координата X игрового объекта.
+            </summary>
+        </member>
+        <member name="P:GameComponents.GameObject.Y">
+            <summary>
+            Координата Y игрового объекта.
+            </summary>
+        </member>
+        <member name="P:GameComponents.GameObject.W">
+            <summary>
+            Ширина текстуры игрового объекта.
+            </summary>
+        </member>
+        <member name="P:GameComponents.GameObject.H">
+            <summary>
+            Высота текстуры игрового объекта.
+            </summary>
+        </member>
+        <member name="M:GameComponents.GameObject.GetVertices">
+            <summary>
+            Получение вершин игрового объекта.
+            </summary>
+            <returns> Четырехэлементая структура вершин игрового объекта. </returns>
+        </member>
+        <member name="T:GameComponents.IMovable">
+            <summary>
+            Скорость объекта.
+            </summary>
+        </member>
+        <member name="M:GameComponents.IMovable.MoveVertical(System.Boolean)">
+            <summary>
+            Перемещение объекта по вертикали.
+            </summary>
+            <param name="marker"> Флаг перемещения вверх или вниз по вертикали. </param>
+        </member>
+        <member name="T:GameComponents.PlayerShip">
+            <summary>
+            Корабль игрока.
+            </summary>
+        </member>
+        <member name="P:GameComponents.PlayerShip.SpeedMotion">
+            <summary>
+            Скорость корабля.
+            </summary>
+        </member>
+        <member name="P:GameComponents.PlayerShip.Armor">
+            <summary>
+            Запас брони.
+            </summary>
+        </member>
+        <member name="P:GameComponents.PlayerShip.BasicType">
+            <summary>
+            Настоящий тип лодки, до декарирования.
+            </summary>
+        </member>
+        <member name="M:GameComponents.PlayerShip.#ctor">
+            <summary>
+            Инициализатор корабля игрока.
+            </summary>
+        </member>
+        <member name="M:GameComponents.PlayerShip.MoveLeft">
+            <summary>
+            Перемещение влево.
+            </summary>
+        </member>
+        <member name="M:GameComponents.PlayerShip.MoveRight">
+            <summary>
+            Перемещение вправо.
+            </summary>
+        </member>
+        <member name="M:GameComponents.PlayerShip.GetTextures">
+            <summary>
+            Получение текстурных координат корабля игрока.
+            </summary>
+            <returns> Двухэлементая структура текстурных координат корабля игрока. </returns>
+        </member>
+        <member name="T:GameComponents.TextureCoords">
+            <summary>
+            Текстурных координаты.
+            </summary>
+        </member>
+        <member name="M:GameComponents.TextureCoords.GetTextures">
+            <summary>
+            Получение текстурных координат.
+            </summary>
+        </member>
+    </members>
+</doc>

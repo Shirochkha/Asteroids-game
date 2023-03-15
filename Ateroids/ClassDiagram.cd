@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ateroids.Engine" Collapsed="true">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBABAAQmAIMAjgBEAIOKJQSgACUKkWCVABAQCNAAwhg=</HashCode>
+      <FileName>Engine\GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ateroids.MovePlayer" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACgAgAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Engine\MovePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameComponents.Shaders" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Shaders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameComponents.Objects.Background" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Objects.BonusGenerator" Collapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Objects.FirstLazer" Collapsed="true">
+    <Position X="9.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Objects.Lazer" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameComponents.Objects.SecondLazer" Collapsed="true">
+    <Position X="8" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Objects.ThirdLazer" Collapsed="true">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.GameObject" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.TextureCoords" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryPlayerShip.ArmorShip" Collapsed="true">
+    <Position X="20.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryPlayerShip.BasicShip" Collapsed="true">
+    <Position X="19.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryPlayerShip.ChooseArmorShip" Collapsed="true">
+    <Position X="21.25" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryPlayerShip.ChooseBasicShip" Collapsed="true">
+    <Position X="20.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryPlayerShip.ChooseSpeedShip" Collapsed="true">
+    <Position X="22.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryPlayerShip.ShipChoose" Collapsed="true">
+    <Position X="21.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryPlayerShip.SpeedShip" Collapsed="true">
+    <Position X="19" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.PlayerShip" Collapsed="true">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Asteroid" Collapsed="true">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Enemy" Collapsed="true">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameComponents.EnemyShip" Collapsed="true">
+    <Position X="13.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryEnemy.CreatorAsteroid" Collapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryEnemy.CreatorEnemyShip" Collapsed="true">
+    <Position X="13" Y="8.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryEnemy.EnemyCreator" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryBonus.ArmorBonus" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryBonus.BonusCreator" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryBonus.CreatorArmor" Collapsed="true">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryBonus.CreatorSpeed" Collapsed="true">
+    <Position X="15.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryBonus.RemoveBonus" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryBonus.RemoverSpeed" Collapsed="true">
+    <Position X="16.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.FactoryBonus.SpeedBonus" Collapsed="true">
+    <Position X="12.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Bonus" Collapsed="true">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Decorator.AdditionalArmor" Collapsed="true">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Decorator.AdditionalSpeed" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.Decorator.RemoveSpeed" Collapsed="true">
+    <Position X="17.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameComponents.PlayerDecorator" Collapsed="true">
+    <Position X="18" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="GameComponents.IMovable" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

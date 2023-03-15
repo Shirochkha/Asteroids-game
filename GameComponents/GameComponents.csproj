@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BD0A8D9-F7F2-4CEA-A3AA-2A669E5A6CFE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameComponents</RootNamespace>
+    <AssemblyName>GameComponents</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\GameComponents.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="OpenTK, Version=3.3.2.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.3.3.2\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Decorator\AdditionalArmor.cs" />
+    <Compile Include="Decorator\AdditionalSpeed.cs" />
+    <Compile Include="Decorator\PlayerDecorator.cs" />
+    <Compile Include="Decorator\RemoveSpeed.cs" />
+    <Compile Include="FactoryBonus\ArmorBonus.cs" />
+    <Compile Include="FactoryBonus\Bonus.cs" />
+    <Compile Include="FactoryBonus\BonusCreator.cs" />
+    <Compile Include="FactoryBonus\CreatorArmor.cs" />
+    <Compile Include="FactoryBonus\CreatorSpeed.cs" />
+    <Compile Include="FactoryBonus\RemoveBonus.cs" />
+    <Compile Include="FactoryBonus\RemoverSpeed.cs" />
+    <Compile Include="FactoryBonus\SpeedBonus.cs" />
+    <Compile Include="FactoryEnemy\CreatorAsteroid.cs" />
+    <Compile Include="FactoryEnemy\CreatorEnemyShip.cs" />
+    <Compile Include="FactoryEnemy\EnemyCreator.cs" />
+    <Compile Include="FactoryPlayerShip\ArmorShip.cs" />
+    <Compile Include="FactoryPlayerShip\BasicShip.cs" />
+    <Compile Include="FactoryPlayerShip\ChooseArmorShip.cs" />
+    <Compile Include="FactoryPlayerShip\ChooseBasicShip.cs" />
+    <Compile Include="FactoryPlayerShip\ShipChoose.cs" />
+    <Compile Include="FactoryPlayerShip\ChooseSpeedShip.cs" />
+    <Compile Include="FactoryPlayerShip\SpeedShip.cs" />
+    <Compile Include="FactoryEnemy\Asteroid.cs" />
+    <Compile Include="Objects\Background.cs" />
+    <Compile Include="Objects\BonusGenerator.cs" />
+    <Compile Include="FactoryEnemy\Enemy.cs" />
+    <Compile Include="FactoryEnemy\EnemyShip.cs" />
+    <Compile Include="Objects\FirstLazer.cs" />
+    <Compile Include="Objects\GameObject.cs" />
+    <Compile Include="Objects\IMovable.cs" />
+    <Compile Include="Objects\Lazer.cs" />
+    <Compile Include="FactoryPlayerShip\PlayerShip.cs" />
+    <Compile Include="Objects\SecondLazer.cs" />
+    <Compile Include="Objects\TextureCoords.cs" />
+    <Compile Include="Objects\ThirdLazer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Decorator\DecoratorDiagram.cd" />
+    <None Include="FactoryBonus\FactoryBonusDiagram.cd" />
+    <None Include="FactoryEnemy\FactoryEnemyDiagram.cd" />
+    <None Include="FactoryPlayerShip\FactoryPlayerShipDiagram.cd" />
+    <None Include="HierarchyDiagram.cd" />
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

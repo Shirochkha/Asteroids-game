@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ateroids</name>
+    </assembly>
+    <members>
+        <member name="T:Ateroids.ChooseShip">
+            <summary>
+            Логика взаимодействия для ChooseShip.xaml
+            </summary>
+            <summary>
+            ChooseShip
+            </summary>
+        </member>
+        <member name="F:Ateroids.ChooseShip.num">
+            <summary>
+            Выбор типа корабля первого игрока.
+            </summary>
+        </member>
+        <member name="F:Ateroids.ChooseShip.num2">
+            <summary>
+            Выбор типа корабля второго игрока.
+            </summary>
+        </member>
+        <member name="M:Ateroids.ChooseShip.#ctor">
+            <summary>
+            Окно выбора корабля.
+            </summary>
+        </member>
+        <member name="M:Ateroids.ChooseShip.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Ateroids.MovePlayer">
+            <summary>
+            Перемещение игрока.
+            </summary>
+        </member>
+        <member name="M:Ateroids.MovePlayer.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Boolean,Ateroids.Engine.GameObj[])">
+            <summary>
+            Инициализатор перемещения игрока.
+            </summary>
+            <param name="m1"> Перемещение первого игрока влево. </param>
+            <param name="m2"> Перемещение второго игрока влево. </param>
+            <param name="r1"> Перемещение первого игрока вправо. </param>
+            <param name="r2"> Перемещение второго игрока вправо. </param>
+            <param name="gameObjs"> Массив кораблей. </param>
+        </member>
+        <member name="M:Ateroids.MovePlayer.CheckKeysPlayer">
+            <summary>
+            Задание границ экрану.
+            </summary>
+        </member>
+        <member name="T:Ateroids.GameOver">
+            <summary>
+            Логика взаимодействия для GameOver.xaml
+            </summary>
+            <summary>
+            GameOver
+            </summary>
+        </member>
+        <member name="M:Ateroids.GameOver.#ctor">
+            <summary>
+            Окно конца игры.
+            </summary>
+        </member>
+        <member name="M:Ateroids.GameOver.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Ateroids.WindowRules">
+            <summary>
+            Логика взаимодействия для WindowRules.xaml
+            </summary>
+            <summary>
+            WindowRules
+            </summary>
+        </member>
+        <member name="M:Ateroids.WindowRules.#ctor">
+            <summary>
+            Окно с правилами игры.
+            </summary>
+        </member>
+        <member name="M:Ateroids.WindowRules.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Ateroids.Engine">
+            <summary>
+            Игровая логика.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.moveLeft">
+            <summary>
+            Флаг для перемещения первого игрока влево.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.moveLeft2">
+            <summary>
+            Флаг для перемещения второго игрока влево.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.moveRight">
+            <summary>
+            Флаг для перемещения первого игрока вправо.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.moveRight2">
+            <summary>
+            Флаг для перемещения второго игрока вправо.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.typeShip1">
+            <summary>
+            Тип корабля первого игрока.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.typeShip2">
+            <summary>
+            Тип корабля второго игрока.
+            </summary>
+        </member>
+        <member name="T:Ateroids.Engine.GameObj">
+            <summary>
+            Структура объекта.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.GameObj.gameObject">
+            <summary>
+            Тип объекта.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.GameObj._cubeVertexArray">
+            <summary>
+            Массив координат вершин объекта.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.GameObj._cubeVertexBuffer">
+            <summary>
+            Объект буффера вершин.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.GameObj._cubeTextureCoordsBuffer">
+            <summary>
+            Объект буффера текстурных координат.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.GameObj._texture">
+            <summary>
+            Текстурные координаты.
+            </summary>
+        </member>
+        <member name="F:Ateroids.Engine.ObjectArray">
+            <summary>
+            Массив кораблей и фона.
+            </summary>
+        </member>
+        <member name="M:Ateroids.Engine.#ctor">
+            <summary>
+            Инициализатор GameWindow.
+            </summary>
+        </member>
+        <member name="M:Ateroids.Engine.CreateBonus">
+            <summary>
+            Генерация бонусов.
+            </summary>
+        </member>
+        <member name="M:Ateroids.Engine.DecorationPlayerShip(GameComponents.GameObject,GameComponents.GameObject)">
+            <summary>
+            Декарирование корабля.
+            </summary>
+            <param name="player"> Корабль. </param>
+            <param name="boost"> Бонус. </param>
+            <returns> Декарированный корабль.</returns>
+        </member>
+        <member name="T:Ateroids.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Ateroids.MainWindow.#ctor">
+            <summary>
+            Окно главного меню.
+            </summary>
+        </member>
+        <member name="M:Ateroids.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Ateroids.App">
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Ateroids.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Ateroids.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:GameComponents.Shaders">
+            <summary>
+            Компиляция шейдеров.
+            </summary>
+        </member>
+        <member name="M:GameComponents.Shaders.CompileShader(OpenTK.Graphics.OpenGL.ShaderType,System.String)">
+            <summary>
+            Инициализация компиляции шейдеров.
+            </summary>
+            <param name="type"> Тип шейдера. </param>
+            <param name="path"> Путь к шейдеру. </param>
+        </member>
+        <member name="T:GameComponents.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+        </member>
+        <member name="T:GameComponents.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:GameComponents.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

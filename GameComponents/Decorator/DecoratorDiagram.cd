@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameComponents.Decorator.AdditionalArmor" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\AdditionalArmor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameComponents.Decorator.AdditionalSpeed" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAEAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\AdditionalSpeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameComponents.Decorator.RemoveSpeed" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\RemoveSpeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameComponents.PlayerDecorator" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIEAAAAAAABEAAAAQAAAAA=</HashCode>
+      <FileName>Decorator\PlayerDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameComponents.PlayerShip" Collapsed="true">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAIUAAAAAAAQAA=</HashCode>
+      <FileName>FactoryPlayerShip\PlayerShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

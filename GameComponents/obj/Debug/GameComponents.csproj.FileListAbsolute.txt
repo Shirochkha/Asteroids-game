@@ -1,0 +1,42 @@
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3_\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest2\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\obj\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\AteroidsTest3\AteroidsTest3 — копия\GameComponents\bin\Debug\GameComponents.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\bin\Debug\GameComponents.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\bin\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\bin\Debug\GameComponents.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\bin\Debug\OpenTK.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\bin\Debug\OpenTK.pdb
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\bin\Debug\OpenTK.xml
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\obj\Debug\GameComponents.csproj.AssemblyReference.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\obj\Debug\GameComponents.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\obj\Debug\GameComponents.csproj.CopyComplete
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\obj\Debug\GameComponents.dll
+C:\Users\Shiro\Desktop\Учеба\Курсач Asteroids\Ateroids\GameComponents\obj\Debug\GameComponents.pdb
